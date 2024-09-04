@@ -30,10 +30,10 @@ The project successfully employs machine learning to predict personality types, 
 
 ## Future Scope <br/>
 *Personalized marketing
-*Recommender systems
-*Human resource management
-*Psychological counseling
++Recommender systems
+-Human resource management
++Psychological counseling
 *Education
-*Mental health diagnosis
-*Social media targeting
++Mental health diagnosis
+-Social media targeting
 *Product development

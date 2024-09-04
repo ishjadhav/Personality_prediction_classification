@@ -29,11 +29,11 @@ A sample input resulted in the prediction of "ENTP" personality, with traits lik
 The project successfully employs machine learning to predict personality types, with the CatBoost model showing high accuracy. The insights gained can be applied in education, psychology, and human resource management.
 
 ## Future Scope <br/>
-*Personalized marketing
-+Recommender systems
--Human resource management
-+Psychological counseling
-*Education
-+Mental health diagnosis
--Social media targeting
-*Product development
+* Personalized marketing
++ Recommender systems
+* Human resource management
++ Psychological counseling
+* Education
++ Mental health diagnosis
+* Social media targeting
++ Product development
